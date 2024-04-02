@@ -1,0 +1,227 @@
+Write the OVERVIEW
+When was the COURT OF FIRST INSTANCE?
+Write the CHRONOLOGY OF IMPORTANT EVENTS?
+Write the CHRONOLOGY OF COURT PROCEEDINGS?
+What was the JUDGMENT?
+What were the LAWS INVOLVED?
+Who is the informant or complainant?
+What is the name of the victim?
+What is the date or of the commitment of the offence?
+What is the place of occurrence of the offence?
+How much time was taken by the police to reach the place of occurrence after?
+the receipt of information of commission of the offence?
+What is the name of the accused arrested at the spot?
+What was the manner of assault?
+What is the description of the weapon used during the occurrence of the offence?
+What is the description of the specific overt act performed by of the accused person(s)?
+Who identified the body of the deceased?
+What was the statement of the accused person(s) under section 313 Cr.P.C on examination.?
+When was the arrest memo prepared?
+Whether there was any delay in preparing the arrest memo?
+Whether the site map of the place of occurrence was prepared and incorporated in the case diary and exhibited before the court?
+What is the name of the police officer who prepared the seizure list?
+Whether the seized article(s) were sealed at the place of occurrence of the offence?
+Whether any materials were seized at the place of occurrence of the offence?
+What were the name(s) of seizure list witness(s)?
+Whether the seizure list was prepared at the place of occurrence of the offence?
+Whether the cause of death was mentioned in the inquest report?
+What were the name(s) of inquest witness(s)?
+Whether the inquest report was prepared at the place of occurrence of the offence?
+What is the name of the police officer who prepared the inquest report?
+Whether the occurrence of the offence took place in prosecution of the common object?
+Whether the occurrence of the offence took place in furtherance of the common intention of the accused person(s)?
+Whether there was an allegation of criminal conspiracy amongst accused persons?
+Whether the copies of the seizure list supplied to the accused person(s)?
+What was the date of institution of the FIR?
+Whether the FIR was instituted on - oral statement or written report or fardbeyan?
+What is the name of the police officer who recorded the statement?
+What was the time of institution of the FIR?
+Whether there was a delay in lodging the FIR?
+What was the reason of delay (if any) in lodging the FIR?
+Under which section(s) was the FIR filed?
+What is the name of the accused person(s) in the FIR?
+What was the number of the unknown accused persons in the FIR?
+What is the name of the witness(s), if any, named in the written report/furdbeyan/oral statement?
+Whether there is/are any injury/injuries mentioned in the FIR?
+Whether there is any evidence as to previous conviction of the accused?
+What is the name and designation of the investigating officer?
+When did the investigating officer assume the charge of the investigation?
+What is the name(s) of Charge-sheeted witness(s)?
+Under which section(s) was the charge sheet filed?
+What is the date, time and place of examining the witnesses by the investigating officer?
+What is the date of submission of the charge sheet?
+What is the date of cognizance of the offence or framing of charge?
+What was the date of supply of the police paper to accused persons?
+Whether the confession of the accused is extra judicial in nature?
+What is the nature of the confession?
+Whether any material has been recovered on the basis of confession?
+Who is the eye-witness in the case?
+Whether there is any injured eye witness in the case?
+Whether there is any injury certificate of the injured eye witness?
+Whether there is any discrepancy in the Ocular and Medical Evidence?
+Who were the other eye witnesses present on the spot when the police reached the spot?
+Which witness is narrating the injuries caused by the accused?
+Which witness reached the place of occurrence of the offence?
+What is the name(s) of Defence Witness(s) who has been examined?
+What is the date on which prosecution witness(s) was examined?
+Whether the witness(s) supported the prosecution case or turned hostile?
+What is the nature of the witness(s)?
+Which accused caused which injury on the body of the victim?
+What is the date of remand of the accused?
+Whether any injury/injuries were found on the body of accused person(s)?
+Whether accused complained of any ill treatment at the hands of police personnel?
+What are the names of the accused persons who conspired together?
+What are the names of the abettors?
+What is the name of the accused person(s) who was forwarded for trial?
+What is the name(s) of the absconding accused person(s)?
+Whether the accused has been examined as a witness?
+Whether the T.I.P of unknown accused person(s) was conducted?
+What is the name of the police officer who conducted the T.I.P?
+Whether the T.I.P was conducted as per statutory provisions under Cr.P.C?
+What is the name of witness(s) who participated in the T.I.P?
+What is the name of the accused person(s) identified during the T.I.P?
+What is the name of the accused person(s) not named in the FIR but identified during the T.I.P?
+What was the date on which the judgment was delivered by the trial court?
+What was the name of the Judge who conducted the trial?
+Whether the accused was convicted/acquitted?
+Whether the trial took place through video conferencing?
+Whether court has examined any witness as court witness?
+Whether any accused has been arrayed as witness during trial under section 319 Cr.P.C?
+What was the number of the documentary evidence(s) exhibited by either of the sides and what was Exhibit No.?
+Whether any accused arrayed as an approver?
+Whether there was a part conviction in the present case?
+Whether the accused has confessed during framing the charges?
+What was the date fixed for judgment?
+Whether the accused has taken the plea of an alibi?
+Whether there was any evidence as to previous charge framed against the accused?
+What was the number of material evidence(s) exhibited by either of the side with Material Exhibit No.?
+What were the objection(s), if any, by either of the side at the time of exhibiting evidence(s)?
+What was the date of receipt of record in the court of sessions after commitment?
+What was the date on which summons were issued on accused person(s) on Bail?
+What was the date fixed for defence evidence, if any?
+What was the date fixed for the argument?
+How many number of dates were taken for the conclusion of the argument?
+When was the body of the deceased sent for post-mortem?
+What was the name of the doctor who performed post-mortem?
+What was the nature of injury/ injuries mentioned in the post-mortem report?
+What was the nature of weapon(s) used and opined by the doctor causing injury/injuries to the deceased?
+Are there any discrepancy/ies in the injury/injuries found on the person of victim/deceased and opined by the doctor in post-mortem vis-a vis nature of weapon used?
+Are there any discrepancy/discrepancies in injury/injuries found on the person of victim/deceased in post-mortem report vis-a-vis the inquest report?
+What is the cause of death stated in the post-mortem report?
+What is the time of death stated on the post-mortem report?
+What is the nature of food material(s) found in the stomach of the deceased?
+Whether the viscera of the deceased was sent to forensic science laboratory?
+What is the description of rigor mortis?
+Whether the injury/injuries were ante-mortem/post-mortem?
+Whether there was any foreign body found in the body of the deceased?
+When was the report from the forensic science laboratory received?
+When was the report received from the forensic science laboratory adduced before the Court?
+Whether any material was sent to the forensic science laboratory for forensic examination?
+Whether the forensic science laboratory report was formally proved by its Author?
+What is the quantum of substantive sentence and the amount of fine?
+What was the date of hearing of the sentence?
+Whether any evidence(s) was adduced before the court during the hearing of the sentence?
+When was the post-mortem report collected by the police officer?
+What circumstances did the prosecution rely upon at the time of trial?
+What is the defence taken by the accused?
+What was the nature of the external injury/injuries on the person of the deceased?
+What was the nature of the internal injury or injuries on the body of the deceased?
+In which court was the trial held?
+What was the date of institution of the domestic violence case?
+In which police station was the FIR instituted?
+How many witnesses were examined by the prosecution.?
+What is the FIR number?
+What is the name of the judge who charged the accused?
+What was the date of institution of trial?
+After how long was the post-mortem conducted since the time of death?
+Judge convicted the accused?
+Is the death sentence conditional?
+Were copies of judgment and order on sentence supplied to the convict?
+On what date was the death sentence reference filed in the High Court?
+When was the post-mortem on the deceased conducted?
+What is the distance of the police station from the place of occurrence of the offence?
+Who proved the MLC of the deceased?
+What were the contentions of the accused?
+For how long was the accused kept in police custody?
+The statement of which witness was recorded under section 161 of Cr.P.C?
+which police officer recorded the statement of witness under section 161 of Cr.P.C?
+Who is the police-witness in the case?
+Who prepared the crime team report?
+How many accused person(s) are named in the FIR?
+what are the names of doctors cited as witnesses?
+what is the date of arrest?
+What is the nature of the charge sheet?
+what is the time of death of victim?
+What is the name of the police officer who prepared the inquest proceedings?
+What was the number of accused persons?
+What is the name of the doctor who examined the witness?
+What is the name of the station house officer (SHO)?
+What is the name of the assistant commissioner of police(ACP)?
+What is the FSL report number?
+What is the MLC number?
+What is the status of the accused stated in the charge sheet?
+Does the charge sheet give any advice to the investigating officer?
+How many sealed parcels were received by the forensic science laboratory?
+How are the sealed articles described?
+When were the sealed articles received by the FSL?
+What is the result of the analysis of the sealed articles?
+What techniques were used to examine the biological report?
+What is the result of the biological report?
+Who prepared the inquest papers?
+Whether the post mortem report was formally proved by its Author?
+Who assisted the Inspecting Officer in investigation?
+Who are witnesses to the beatings given to the accused?
+Was the MLC report adduced before the court?
+On what date were the arguments heard?
+Who is the most crucial witness of the prosecution?
+When did the investigating officer receive the site map of the place of?
+occurrence of offence?
+Whether any subsequent opinion of weapon was sought by investigating officer?
+What were the contentions of the prosecution?
+Under which section was the domestic violence case filed?
+What order was passed by the magistrate in the domestic violence case?
+Whether benefit u/s 428 of Cr.P.C was given to the accused?
+What was the number of inquest papers?
+Who proved the crime team report?
+Did the accused lead any evidence in his defence?
+Which cases were cited during the trial?
+Which cases were cited by the defence counsel during the trial?
+Was the prosecution successful in proving its case?
+Who are the material witnesses?
+Who are the formal witnesses?
+Who are the expert witnesses?
+To whom was the dead body of the victim handed over?
+What was the date on which the judgment was delivered by the High Court with respect to the death sentence reference appeal?
+What was the name of the Judge who heard the death sentence reference appeal?
+Under which section was death sentence referred to the High Court for confirmation?
+Who prepared the rukka on receipt of information of the crime?
+What were the steps taken after the information of the crime was given to the police?
+Where was the accused arrested?
+Who prepared the site plan of the place of occurrence?
+When was the confession of the accused person(s) recorded?
+Was the death sentence confirmed by the High Court?
+When did the High Court give its decision on the death sentence?
+When was the copy of the High Court judgment sent to the convict?
+What was the mitigating circumstance for setting aside the death sentence?
+Did the accused plead guilty and claim trial?
+Were the convicts in judicial custody during the trial?
+Under which sections was the accused convicted?
+When was the PCR call related to the crime received?
+Was the FIR read over to the complainant/informant?
+Did the complainant/informant admit that the FIR was recorded correctly?
+Was a copy of the FIR supplied to the complainant/informant?
+What was the forensic evidence given in this case?
+What is the date and time of receiving the body in mortuary?
+Whether a recommendation was made u/s 357-A of Cr.P.C ?
+What is the name(s) of Charge-sheeted accused person(s)?
+What is the name of the deceased victim?
+Who brought the certificate under section 65-B of the Evidence Act ?
+What is the motive of commission of offence according to prosecution?
+How did the police receive information about the accused person(s)?
+Which convict paid the fine?
+Whether the copy of police report supplied to the accused under section 207 of Cr.PC?
+What is the name of the forensic expert who prepared the CFSL report?
+Who were the witnesses to the arrest of the accused?
+Whether there was any discrepancy in the medical evidence?
+What techniques were used to examine the serological report?
+Whether the transit remand for accused was obtained?
