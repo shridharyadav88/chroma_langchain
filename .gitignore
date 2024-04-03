@@ -2,3 +2,8 @@ __pycache__/
 env_LangChain/
 models/
 chromadb_data/
+chromadb_langchain/chroma.sqlite3
+chromadb_langchain/1aab1c4d-fde2-4e15-8431-697bf2a4021a/data_level0.bin
+chromadb_langchain/1aab1c4d-fde2-4e15-8431-697bf2a4021a/header.bin
+chromadb_langchain/1aab1c4d-fde2-4e15-8431-697bf2a4021a/length.bin
+chromadb_langchain/1aab1c4d-fde2-4e15-8431-697bf2a4021a/link_lists.bin
