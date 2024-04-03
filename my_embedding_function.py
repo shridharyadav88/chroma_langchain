@@ -11,3 +11,7 @@ class CustomEmbeddings():
         embeddings = embedding_model.embed_documents(texts)
         return embeddings
     
+    def embed_query(self, texts):
+        embedding_model = HuggingFaceEmbeddings(model_name=self.model_name)
+        embeddings = embedding_model.embed_documents(texts)
+        return embeddings[0]
